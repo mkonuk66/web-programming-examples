@@ -1,0 +1,4 @@
+com\kb\dao\UserDAO.class
+com\kb\model\User.class
+com\kb\rest\resource\UserResource.class
+com\kb\service\UserService.class
